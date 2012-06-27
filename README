@@ -1,0 +1,7 @@
+Radial Basis Functions in Python
+
+Author: Jeremy Stober
+Contact: stober@gmail.com
+Version: 0.1
+
+This module implements a radial basis function network in Python.
